@@ -10,7 +10,10 @@ public class Addition {
 		x = 20;
 		y = 20;
 		z= x+y;
+		int p = x * y;
 		System.out.println(z);
+		System.out.println(p);
+		
 	}
 
 }
