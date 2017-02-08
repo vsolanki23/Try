@@ -14,7 +14,9 @@ public class Addition {
 		System.out.println(z);
 		System.out.println(p);
 		int ans = x/y;
-		System.out.print(ans);
+		System.out.println(ans);
+		System.out.println("story branch");
+		
 		
 	}
 
