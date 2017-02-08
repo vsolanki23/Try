@@ -13,6 +13,8 @@ public class Addition {
 		int p = x * y;
 		System.out.println(z);
 		System.out.println(p);
+		int ans = x/y;
+		System.out.print(ans);
 		
 	}
 
