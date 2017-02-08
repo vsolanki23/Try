@@ -16,6 +16,8 @@ public class Addition {
 		int ans = x/y;
 		System.out.println(ans);
 		System.out.println("story branch");
+		System.out.println("done");
+
 		
 		
 	}
